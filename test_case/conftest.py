@@ -12,7 +12,7 @@ head = {
         "User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36",
     }
 @pytest.fixture(scope='function',
-                params=river_case("../data/shujv.yaml"),
+                params=river_case("E:/ff/data/shujv.yaml"),
                 name="water",
                 autouse=True)
 def river(request):
