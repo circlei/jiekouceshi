@@ -4,7 +4,6 @@
 # @Time      :2020/12/25 10:46
 # @Author    :SHUI
 import pytest,allure
-from data.datas import river_case
 import os
 import logging#日志记录用户的动作
 
