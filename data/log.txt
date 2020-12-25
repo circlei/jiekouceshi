@@ -1,0 +1,347 @@
+2020-12-25 11:58:33,640 connectionpool.py[line:231] DEBUG Starting new HTTP connection (1): web.juhe.cn:8080
+2020-12-25 11:58:33,848 connectionpool.py[line:461] DEBUG http://web.juhe.cn:8080 "GET /environment/water/river?key=080deff605d2903e60a0bf3eb4b94884&river=%E6%B7%AE%E6%B2%B3%E6%B5%81%E5%9F%9F HTTP/1.1" 200 None
+2020-12-25 11:58:33,850 test_river.py[line:26] INFO 无效的输入返回
+2020-12-25 11:58:33,864 connectionpool.py[line:231] DEBUG Starting new HTTP connection (1): web.juhe.cn:8080
+2020-12-25 11:58:34,002 connectionpool.py[line:461] DEBUG http://web.juhe.cn:8080 "GET /environment/water/river?key=080deff605d2903e60a0bf3eb4b94884&river=%E5%A4%AA%E5%B9%B3%E6%B4%8B HTTP/1.1" 200 78
+2020-12-25 11:58:34,006 test_river.py[line:26] INFO 无效的输入返回
+2020-12-25 11:58:34,028 connectionpool.py[line:231] DEBUG Starting new HTTP connection (1): web.juhe.cn:8080
+2020-12-25 11:58:34,170 connectionpool.py[line:461] DEBUG http://web.juhe.cn:8080 "GET /environment/water/river?key=11111111111111111111111111111111&river=%E9%BB%84%E6%B2%B3%E6%B5%81%E5%9F%9F HTTP/1.1" 200 73
+2020-12-25 11:58:34,172 test_river.py[line:26] INFO 无效的输入返回
+2020-12-25 11:58:34,182 connectionpool.py[line:231] DEBUG Starting new HTTP connection (1): web.juhe.cn:8080
+2020-12-25 11:58:34,286 connectionpool.py[line:461] DEBUG http://web.juhe.cn:8080 "GET /environment/water/river?key=0&river=%E6%B5%B7%E6%B2%B3%E6%B5%81%E5%9F%9F HTTP/1.1" 200 73
+2020-12-25 11:58:34,289 test_river.py[line:26] INFO 无效的输入返回
+2020-12-25 12:00:17,492 connectionpool.py[line:231] DEBUG Starting new HTTP connection (1): web.juhe.cn:8080
+2020-12-25 12:00:17,700 connectionpool.py[line:461] DEBUG http://web.juhe.cn:8080 "GET /environment/water/river?key=080deff605d2903e60a0bf3eb4b94884&river=%E6%B7%AE%E6%B2%B3%E6%B5%81%E5%9F%9F HTTP/1.1" 200 None
+2020-12-25 12:00:17,704 test_river.py[line:26] INFO 无效的输入返回
+2020-12-25 12:00:17,730 connectionpool.py[line:231] DEBUG Starting new HTTP connection (1): web.juhe.cn:8080
+2020-12-25 12:00:17,890 connectionpool.py[line:461] DEBUG http://web.juhe.cn:8080 "GET /environment/water/river?key=080deff605d2903e60a0bf3eb4b94884&river=%E5%A4%AA%E5%B9%B3%E6%B4%8B HTTP/1.1" 200 78
+2020-12-25 12:00:17,893 test_river.py[line:26] INFO 无效的输入返回
+2020-12-25 12:00:17,916 connectionpool.py[line:231] DEBUG Starting new HTTP connection (1): web.juhe.cn:8080
+2020-12-25 12:00:18,119 connectionpool.py[line:461] DEBUG http://web.juhe.cn:8080 "GET /environment/water/river?key=11111111111111111111111111111111&river=%E9%BB%84%E6%B2%B3%E6%B5%81%E5%9F%9F HTTP/1.1" 200 73
+2020-12-25 12:00:18,122 test_river.py[line:26] INFO 无效的输入返回
+2020-12-25 12:00:18,141 connectionpool.py[line:231] DEBUG Starting new HTTP connection (1): web.juhe.cn:8080
+2020-12-25 12:00:18,262 connectionpool.py[line:461] DEBUG http://web.juhe.cn:8080 "GET /environment/water/river?key=0&river=%E6%B5%B7%E6%B2%B3%E6%B5%81%E5%9F%9F HTTP/1.1" 200 73
+2020-12-25 12:00:18,265 test_river.py[line:26] INFO 无效的输入返回
+2020-12-25 14:00:40,778 connectionpool.py[line:231] DEBUG Starting new HTTP connection (1): web.juhe.cn:8080
+2020-12-25 14:00:40,954 connectionpool.py[line:461] DEBUG http://web.juhe.cn:8080 "GET /environment/water/river?key=080deff605d2903e60a0bf3eb4b94884&river=%E6%B7%AE%E6%B2%B3%E6%B5%81%E5%9F%9F HTTP/1.1" 200 None
+2020-12-25 14:00:40,960 test_river.py[line:26] INFO 无效的输入返回
+2020-12-25 14:00:40,985 connectionpool.py[line:231] DEBUG Starting new HTTP connection (1): web.juhe.cn:8080
+2020-12-25 14:00:41,109 connectionpool.py[line:461] DEBUG http://web.juhe.cn:8080 "GET /environment/water/river?key=080deff605d2903e60a0bf3eb4b94884&river=%E5%A4%AA%E5%B9%B3%E6%B4%8B HTTP/1.1" 200 78
+2020-12-25 14:00:41,114 test_river.py[line:26] INFO 无效的输入返回
+2020-12-25 14:00:41,135 connectionpool.py[line:231] DEBUG Starting new HTTP connection (1): web.juhe.cn:8080
+2020-12-25 14:00:41,239 connectionpool.py[line:461] DEBUG http://web.juhe.cn:8080 "GET /environment/water/river?key=11111111111111111111111111111111&river=%E9%BB%84%E6%B2%B3%E6%B5%81%E5%9F%9F HTTP/1.1" 200 73
+2020-12-25 14:00:41,241 test_river.py[line:26] INFO 无效的输入返回
+2020-12-25 14:00:41,251 connectionpool.py[line:231] DEBUG Starting new HTTP connection (1): web.juhe.cn:8080
+2020-12-25 14:00:41,357 connectionpool.py[line:461] DEBUG http://web.juhe.cn:8080 "GET /environment/water/river?key=0&river=%E6%B5%B7%E6%B2%B3%E6%B5%81%E5%9F%9F HTTP/1.1" 200 73
+2020-12-25 14:00:41,360 test_river.py[line:26] INFO 无效的输入返回
+2020-12-25 15:01:47,432 connectionpool.py[line:231] DEBUG Starting new HTTP connection (1): web.juhe.cn:8080
+2020-12-25 15:01:47,584 connectionpool.py[line:461] DEBUG http://web.juhe.cn:8080 "GET /environment/water/river?key=080deff605d2903e60a0bf3eb4b94884&river=%E6%B7%AE%E6%B2%B3%E6%B5%81%E5%9F%9F HTTP/1.1" 200 None
+2020-12-25 15:01:47,595 test_river.py[line:36] INFO 不成功的用例
+2020-12-25 15:01:47,604 connectionpool.py[line:231] DEBUG Starting new HTTP connection (1): web.juhe.cn:8080
+2020-12-25 15:01:49,000 connectionpool.py[line:461] DEBUG http://web.juhe.cn:8080 "GET /environment/water/river?key=080deff605d2903e60a0bf3eb4b94884&river=%E5%A4%AA%E5%B9%B3%E6%B4%8B HTTP/1.1" 200 78
+2020-12-25 15:01:49,005 test_river.py[line:36] INFO 不成功的用例
+2020-12-25 15:01:49,012 connectionpool.py[line:231] DEBUG Starting new HTTP connection (1): web.juhe.cn:8080
+2020-12-25 15:01:50,621 connectionpool.py[line:461] DEBUG http://web.juhe.cn:8080 "GET /environment/water/river?key=11111111111111111111111111111111&river=%E9%BB%84%E6%B2%B3%E6%B5%81%E5%9F%9F HTTP/1.1" 200 73
+2020-12-25 15:01:50,626 test_river.py[line:36] INFO 不成功的用例
+2020-12-25 15:01:50,635 connectionpool.py[line:231] DEBUG Starting new HTTP connection (1): web.juhe.cn:8080
+2020-12-25 15:01:50,749 connectionpool.py[line:461] DEBUG http://web.juhe.cn:8080 "GET /environment/water/river?key=0&river=%E6%B5%B7%E6%B2%B3%E6%B5%81%E5%9F%9F HTTP/1.1" 200 73
+2020-12-25 15:01:50,754 test_river.py[line:36] INFO 不成功的用例
+2020-12-25 15:03:00,803 connectionpool.py[line:231] DEBUG Starting new HTTP connection (1): web.juhe.cn:8080
+2020-12-25 15:03:06,684 connectionpool.py[line:231] DEBUG Starting new HTTP connection (1): web.juhe.cn:8080
+2020-12-25 15:03:07,466 connectionpool.py[line:461] DEBUG http://web.juhe.cn:8080 "GET /environment/water/river?key=080deff605d2903e60a0bf3eb4b94884&river=%E5%A4%AA%E5%B9%B3%E6%B4%8B HTTP/1.1" 200 78
+2020-12-25 15:03:07,471 test_river.py[line:36] INFO 不成功的用例
+2020-12-25 15:03:07,480 connectionpool.py[line:231] DEBUG Starting new HTTP connection (1): web.juhe.cn:8080
+2020-12-25 15:03:07,835 connectionpool.py[line:461] DEBUG http://web.juhe.cn:8080 "GET /environment/water/river?key=11111111111111111111111111111111&river=%E9%BB%84%E6%B2%B3%E6%B5%81%E5%9F%9F HTTP/1.1" 200 73
+2020-12-25 15:03:07,839 test_river.py[line:36] INFO 不成功的用例
+2020-12-25 15:03:07,850 connectionpool.py[line:231] DEBUG Starting new HTTP connection (1): web.juhe.cn:8080
+2020-12-25 15:03:07,962 connectionpool.py[line:461] DEBUG http://web.juhe.cn:8080 "GET /environment/water/river?key=0&river=%E6%B5%B7%E6%B2%B3%E6%B5%81%E5%9F%9F HTTP/1.1" 200 73
+2020-12-25 15:03:07,967 test_river.py[line:36] INFO 不成功的用例
+2020-12-25 15:03:31,181 connectionpool.py[line:231] DEBUG Starting new HTTP connection (1): web.juhe.cn:8080
+2020-12-25 15:03:31,970 connectionpool.py[line:461] DEBUG http://web.juhe.cn:8080 "GET /environment/water/river?key=080deff605d2903e60a0bf3eb4b94884&river=%E6%B7%AE%E6%B2%B3%E6%B5%81%E5%9F%9F HTTP/1.1" 200 None
+2020-12-25 15:03:32,270 test_river.py[line:35] INFO 不成功的用例
+2020-12-25 15:03:32,277 connectionpool.py[line:231] DEBUG Starting new HTTP connection (1): web.juhe.cn:8080
+2020-12-25 15:03:43,120 connectionpool.py[line:461] DEBUG http://web.juhe.cn:8080 "GET /environment/water/river?key=080deff605d2903e60a0bf3eb4b94884&river=%E5%A4%AA%E5%B9%B3%E6%B4%8B HTTP/1.1" 200 78
+2020-12-25 15:03:43,125 test_river.py[line:35] INFO 不成功的用例
+2020-12-25 15:03:43,135 connectionpool.py[line:231] DEBUG Starting new HTTP connection (1): web.juhe.cn:8080
+2020-12-25 15:03:44,667 connectionpool.py[line:461] DEBUG http://web.juhe.cn:8080 "GET /environment/water/river?key=11111111111111111111111111111111&river=%E9%BB%84%E6%B2%B3%E6%B5%81%E5%9F%9F HTTP/1.1" 200 73
+2020-12-25 15:03:44,672 test_river.py[line:35] INFO 不成功的用例
+2020-12-25 15:03:44,681 connectionpool.py[line:231] DEBUG Starting new HTTP connection (1): web.juhe.cn:8080
+2020-12-25 15:03:45,079 connectionpool.py[line:461] DEBUG http://web.juhe.cn:8080 "GET /environment/water/river?key=0&river=%E6%B5%B7%E6%B2%B3%E6%B5%81%E5%9F%9F HTTP/1.1" 200 73
+2020-12-25 15:03:45,083 test_river.py[line:35] INFO 不成功的用例
+2020-12-25 15:04:30,475 connectionpool.py[line:231] DEBUG Starting new HTTP connection (1): web.juhe.cn:8080
+2020-12-25 15:04:30,627 connectionpool.py[line:461] DEBUG http://web.juhe.cn:8080 "GET /environment/water/river?key=080deff605d2903e60a0bf3eb4b94884&river=%E6%B7%AE%E6%B2%B3%E6%B5%81%E5%9F%9F HTTP/1.1" 200 None
+2020-12-25 15:04:30,637 test_river.py[line:35] INFO 不成功的用例
+2020-12-25 15:04:30,658 connectionpool.py[line:231] DEBUG Starting new HTTP connection (1): web.juhe.cn:8080
+2020-12-25 15:04:38,020 connectionpool.py[line:461] DEBUG http://web.juhe.cn:8080 "GET /environment/water/river?key=080deff605d2903e60a0bf3eb4b94884&river=%E5%A4%AA%E5%B9%B3%E6%B4%8B HTTP/1.1" 200 78
+2020-12-25 15:04:38,025 test_river.py[line:35] INFO 不成功的用例
+2020-12-25 15:04:38,044 connectionpool.py[line:231] DEBUG Starting new HTTP connection (1): web.juhe.cn:8080
+2020-12-25 15:04:45,167 connectionpool.py[line:461] DEBUG http://web.juhe.cn:8080 "GET /environment/water/river?key=11111111111111111111111111111111&river=%E9%BB%84%E6%B2%B3%E6%B5%81%E5%9F%9F HTTP/1.1" 200 73
+2020-12-25 15:04:45,173 test_river.py[line:35] INFO 不成功的用例
+2020-12-25 15:04:45,189 connectionpool.py[line:231] DEBUG Starting new HTTP connection (1): web.juhe.cn:8080
+2020-12-25 15:04:45,321 connectionpool.py[line:461] DEBUG http://web.juhe.cn:8080 "GET /environment/water/river?key=0&river=%E6%B5%B7%E6%B2%B3%E6%B5%81%E5%9F%9F HTTP/1.1" 200 73
+2020-12-25 15:04:45,325 test_river.py[line:35] INFO 不成功的用例
+2020-12-25 15:06:06,705 connectionpool.py[line:231] DEBUG Starting new HTTP connection (1): web.juhe.cn:8080
+2020-12-25 15:06:08,426 connectionpool.py[line:461] DEBUG http://web.juhe.cn:8080 "GET /environment/water/river?key=080deff605d2903e60a0bf3eb4b94884&river=%E6%B7%AE%E6%B2%B3%E6%B5%81%E5%9F%9F HTTP/1.1" 200 None
+2020-12-25 15:06:08,434 test_river.py[line:35] INFO 不成功的用例
+2020-12-25 15:06:08,451 connectionpool.py[line:231] DEBUG Starting new HTTP connection (1): web.juhe.cn:8080
+2020-12-25 15:06:14,648 connectionpool.py[line:231] DEBUG Starting new HTTP connection (1): web.juhe.cn:8080
+2020-12-25 15:06:15,452 connectionpool.py[line:461] DEBUG http://web.juhe.cn:8080 "GET /environment/water/river?key=11111111111111111111111111111111&river=%E9%BB%84%E6%B2%B3%E6%B5%81%E5%9F%9F HTTP/1.1" 200 73
+2020-12-25 15:06:15,457 test_river.py[line:35] INFO 不成功的用例
+2020-12-25 15:06:15,472 connectionpool.py[line:231] DEBUG Starting new HTTP connection (1): web.juhe.cn:8080
+2020-12-25 15:06:19,798 connectionpool.py[line:461] DEBUG http://web.juhe.cn:8080 "GET /environment/water/river?key=0&river=%E6%B5%B7%E6%B2%B3%E6%B5%81%E5%9F%9F HTTP/1.1" 200 73
+2020-12-25 15:06:19,802 test_river.py[line:35] INFO 不成功的用例
+2020-12-25 15:06:38,822 connectionpool.py[line:231] DEBUG Starting new HTTP connection (1): web.juhe.cn:8080
+2020-12-25 15:07:00,184 connectionpool.py[line:231] DEBUG Starting new HTTP connection (1): web.juhe.cn:8080
+2020-12-25 15:07:00,843 connectionpool.py[line:461] DEBUG http://web.juhe.cn:8080 "GET /environment/water/river?key=080deff605d2903e60a0bf3eb4b94884&river=%E5%A4%AA%E5%B9%B3%E6%B4%8B HTTP/1.1" 200 78
+2020-12-25 15:07:00,847 test_river.py[line:35] INFO 不成功的用例
+2020-12-25 15:07:00,864 connectionpool.py[line:231] DEBUG Starting new HTTP connection (1): web.juhe.cn:8080
+2020-12-25 15:07:02,552 connectionpool.py[line:461] DEBUG http://web.juhe.cn:8080 "GET /environment/water/river?key=11111111111111111111111111111111&river=%E9%BB%84%E6%B2%B3%E6%B5%81%E5%9F%9F HTTP/1.1" 200 73
+2020-12-25 15:07:02,557 test_river.py[line:35] INFO 不成功的用例
+2020-12-25 15:07:02,572 connectionpool.py[line:231] DEBUG Starting new HTTP connection (1): web.juhe.cn:8080
+2020-12-25 15:07:03,482 connectionpool.py[line:461] DEBUG http://web.juhe.cn:8080 "GET /environment/water/river?key=0&river=%E6%B5%B7%E6%B2%B3%E6%B5%81%E5%9F%9F HTTP/1.1" 200 73
+2020-12-25 15:07:03,487 test_river.py[line:35] INFO 不成功的用例
+2020-12-25 15:08:00,528 connectionpool.py[line:231] DEBUG Starting new HTTP connection (1): web.juhe.cn:8080
+2020-12-25 15:08:04,566 connectionpool.py[line:461] DEBUG http://web.juhe.cn:8080 "GET /environment/water/river?key=080deff605d2903e60a0bf3eb4b94884&river=%E6%B7%AE%E6%B2%B3%E6%B5%81%E5%9F%9F HTTP/1.1" 200 None
+2020-12-25 15:08:08,902 test_river.py[line:35] INFO 不成功的用例
+2020-12-25 15:08:08,917 connectionpool.py[line:231] DEBUG Starting new HTTP connection (1): web.juhe.cn:8080
+2020-12-25 15:08:30,219 connectionpool.py[line:231] DEBUG Starting new HTTP connection (1): web.juhe.cn:8080
+2020-12-25 15:08:35,509 connectionpool.py[line:231] DEBUG Starting new HTTP connection (1): web.juhe.cn:8080
+2020-12-25 15:09:37,185 connectionpool.py[line:231] DEBUG Starting new HTTP connection (1): web.juhe.cn:8080
+2020-12-25 15:09:38,494 connectionpool.py[line:461] DEBUG http://web.juhe.cn:8080 "GET /environment/water/river?key=080deff605d2903e60a0bf3eb4b94884&river=%E6%B7%AE%E6%B2%B3%E6%B5%81%E5%9F%9F HTTP/1.1" 200 None
+2020-12-25 15:09:41,786 test_river.py[line:35] INFO 不成功的用例
+2020-12-25 15:09:41,806 connectionpool.py[line:231] DEBUG Starting new HTTP connection (1): web.juhe.cn:8080
+2020-12-25 15:09:43,152 connectionpool.py[line:461] DEBUG http://web.juhe.cn:8080 "GET /environment/water/river?key=080deff605d2903e60a0bf3eb4b94884&river=%E5%A4%AA%E5%B9%B3%E6%B4%8B HTTP/1.1" 200 78
+2020-12-25 15:09:43,157 test_river.py[line:35] INFO 不成功的用例
+2020-12-25 15:09:43,172 connectionpool.py[line:231] DEBUG Starting new HTTP connection (1): web.juhe.cn:8080
+2020-12-25 15:09:43,520 connectionpool.py[line:461] DEBUG http://web.juhe.cn:8080 "GET /environment/water/river?key=11111111111111111111111111111111&river=%E9%BB%84%E6%B2%B3%E6%B5%81%E5%9F%9F HTTP/1.1" 200 73
+2020-12-25 15:09:43,525 test_river.py[line:35] INFO 不成功的用例
+2020-12-25 15:09:43,541 connectionpool.py[line:231] DEBUG Starting new HTTP connection (1): web.juhe.cn:8080
+2020-12-25 15:09:45,672 connectionpool.py[line:461] DEBUG http://web.juhe.cn:8080 "GET /environment/water/river?key=0&river=%E6%B5%B7%E6%B2%B3%E6%B5%81%E5%9F%9F HTTP/1.1" 200 73
+2020-12-25 15:09:45,677 test_river.py[line:35] INFO 不成功的用例
+2020-12-25 15:45:46,918 connectionpool.py[line:231] DEBUG Starting new HTTP connection (1): web.juhe.cn:8080
+2020-12-25 15:45:47,413 connectionpool.py[line:461] DEBUG http://web.juhe.cn:8080 "GET /environment/water/state?state=%E6%B9%96%E5%8C%97%E5%AE%9C%E6%98%8C%E5%8D%97%E6%B4%A5%E5%85%B3&key=080deff605d2903e60a0bf3eb4b94884 HTTP/1.1" 200 728
+2020-12-25 15:45:47,420 connectionpool.py[line:231] DEBUG Starting new HTTP connection (1): web.juhe.cn:8080
+2020-12-25 15:45:47,533 connectionpool.py[line:461] DEBUG http://web.juhe.cn:8080 "GET /environment/water/state?key=0 HTTP/1.1" 200 73
+2020-12-25 15:45:47,542 connectionpool.py[line:231] DEBUG Starting new HTTP connection (1): web.juhe.cn:8080
+2020-12-25 15:45:54,876 connectionpool.py[line:461] DEBUG http://web.juhe.cn:8080 "GET /environment/water/river?key=080deff605d2903e60a0bf3eb4b94884&river=%E6%B7%AE%E6%B2%B3%E6%B5%81%E5%9F%9F HTTP/1.1" 200 None
+2020-12-25 15:45:54,881 test_river.py[line:35] INFO 不成功的用例
+2020-12-25 15:45:54,903 connectionpool.py[line:231] DEBUG Starting new HTTP connection (1): web.juhe.cn:8080
+2020-12-25 15:46:00,549 connectionpool.py[line:231] DEBUG Starting new HTTP connection (1): web.juhe.cn:8080
+2020-12-25 15:46:06,510 connectionpool.py[line:231] DEBUG Starting new HTTP connection (1): web.juhe.cn:8080
+2020-12-25 15:46:07,867 connectionpool.py[line:461] DEBUG http://web.juhe.cn:8080 "GET /environment/water/state?state=%E6%B9%96%E5%8C%97%E5%AE%9C%E6%98%8C%E5%8D%97%E6%B4%A5%E5%85%B3&key=080deff605d2903e60a0bf3eb4b94884 HTTP/1.1" 200 728
+2020-12-25 15:46:07,906 connectionpool.py[line:231] DEBUG Starting new HTTP connection (1): web.juhe.cn:8080
+2020-12-25 15:46:08,338 connectionpool.py[line:461] DEBUG http://web.juhe.cn:8080 "GET /environment/water/state?state=%E6%B9%96%E5%8C%97%E5%AE%9C%E6%98%8C%E5%8D%97%E6%B4%A5%E5%85%B3&key=080deff605d2903e60a0bf3eb4b94884 HTTP/1.1" 200 728
+2020-12-25 15:46:08,378 connectionpool.py[line:231] DEBUG Starting new HTTP connection (1): web.juhe.cn:8080
+2020-12-25 15:46:29,639 connectionpool.py[line:231] DEBUG Starting new HTTP connection (1): web.juhe.cn:8080
+2020-12-25 15:46:35,771 connectionpool.py[line:231] DEBUG Starting new HTTP connection (1): web.juhe.cn:8080
+2020-12-25 15:46:41,532 connectionpool.py[line:231] DEBUG Starting new HTTP connection (1): web.juhe.cn:8080
+2020-12-25 15:46:47,534 connectionpool.py[line:231] DEBUG Starting new HTTP connection (1): web.juhe.cn:8080
+2020-12-25 15:46:47,694 connectionpool.py[line:461] DEBUG http://web.juhe.cn:8080 "GET /environment/water/state?state=henamhyicheng&key=080deff605d2903e60a0bf3eb4b94884 HTTP/1.1" 200 76
+2020-12-25 15:46:47,702 connectionpool.py[line:231] DEBUG Starting new HTTP connection (1): web.juhe.cn:8080
+2020-12-25 15:46:47,805 connectionpool.py[line:461] DEBUG http://web.juhe.cn:8080 "GET /environment/water/state?key=0 HTTP/1.1" 200 73
+2020-12-25 15:46:47,815 connectionpool.py[line:231] DEBUG Starting new HTTP connection (1): web.juhe.cn:8080
+2020-12-25 15:47:09,038 connectionpool.py[line:231] DEBUG Starting new HTTP connection (1): web.juhe.cn:8080
+2020-12-25 15:47:20,332 connectionpool.py[line:231] DEBUG Starting new HTTP connection (1): web.juhe.cn:8080
+2020-12-25 15:47:24,621 connectionpool.py[line:461] DEBUG http://web.juhe.cn:8080 "GET /environment/water/state?state=henamhyicheng&key=080deff605d2903e60a0bf3eb4b94884 HTTP/1.1" 200 76
+2020-12-25 15:47:24,631 connectionpool.py[line:231] DEBUG Starting new HTTP connection (1): web.juhe.cn:8080
+2020-12-25 15:47:24,803 connectionpool.py[line:461] DEBUG http://web.juhe.cn:8080 "GET /environment/water/state?key=0 HTTP/1.1" 200 73
+2020-12-25 15:47:24,811 connectionpool.py[line:231] DEBUG Starting new HTTP connection (1): web.juhe.cn:8080
+2020-12-25 15:47:24,918 connectionpool.py[line:461] DEBUG http://web.juhe.cn:8080 "GET /environment/water/river?key=aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa&river=%E9%BB%84%E6%B2%B3%E6%B5%81%E5%9F%9F HTTP/1.1" 200 73
+2020-12-25 15:47:24,923 test_river.py[line:35] INFO 不成功的用例
+2020-12-25 15:47:24,948 connectionpool.py[line:231] DEBUG Starting new HTTP connection (1): web.juhe.cn:8080
+2020-12-25 15:47:25,050 connectionpool.py[line:461] DEBUG http://web.juhe.cn:8080 "GET /environment/water/state?state=henamhyicheng&key=080deff605d2903e60a0bf3eb4b94884 HTTP/1.1" 200 76
+2020-12-25 15:47:25,089 connectionpool.py[line:231] DEBUG Starting new HTTP connection (1): web.juhe.cn:8080
+2020-12-25 15:47:25,698 connectionpool.py[line:461] DEBUG http://web.juhe.cn:8080 "GET /environment/water/state?state=henamhyicheng&key=080deff605d2903e60a0bf3eb4b94884 HTTP/1.1" 200 76
+2020-12-25 15:47:25,742 connectionpool.py[line:231] DEBUG Starting new HTTP connection (1): web.juhe.cn:8080
+2020-12-25 15:47:25,882 connectionpool.py[line:461] DEBUG http://web.juhe.cn:8080 "GET /environment/water/state?state=henamhyicheng&key=080deff605d2903e60a0bf3eb4b94884 HTTP/1.1" 200 76
+2020-12-25 15:47:25,910 connectionpool.py[line:231] DEBUG Starting new HTTP connection (1): web.juhe.cn:8080
+2020-12-25 15:47:26,569 connectionpool.py[line:461] DEBUG http://web.juhe.cn:8080 "GET /environment/water/state?state=henamhyicheng&key=080deff605d2903e60a0bf3eb4b94884 HTTP/1.1" 200 76
+2020-12-25 15:47:26,618 connectionpool.py[line:231] DEBUG Starting new HTTP connection (1): web.juhe.cn:8080
+2020-12-25 15:47:26,757 connectionpool.py[line:461] DEBUG http://web.juhe.cn:8080 "GET /environment/water/state?state=henamhyicheng&key=080deff605d2903e60a0bf3eb4b94884 HTTP/1.1" 200 76
+2020-12-25 15:47:26,797 connectionpool.py[line:231] DEBUG Starting new HTTP connection (1): web.juhe.cn:8080
+2020-12-25 15:47:27,160 connectionpool.py[line:461] DEBUG http://web.juhe.cn:8080 "GET /environment/water/state?state=henamhyicheng&key=080deff605d2903e60a0bf3eb4b94884 HTTP/1.1" 200 76
+2020-12-25 15:47:27,199 connectionpool.py[line:231] DEBUG Starting new HTTP connection (1): web.juhe.cn:8080
+2020-12-25 15:47:27,311 connectionpool.py[line:461] DEBUG http://web.juhe.cn:8080 "GET /environment/water/state?state=%E6%B2%B3%E5%8D%97%E6%B0%B8%E5%9F%8E%E9%BB%84%E5%8F%A3&key=12345678912345678900000000000000 HTTP/1.1" 200 73
+2020-12-25 15:47:27,319 connectionpool.py[line:231] DEBUG Starting new HTTP connection (1): web.juhe.cn:8080
+2020-12-25 15:47:27,672 connectionpool.py[line:461] DEBUG http://web.juhe.cn:8080 "GET /environment/water/state?key=0 HTTP/1.1" 200 73
+2020-12-25 15:47:27,680 connectionpool.py[line:231] DEBUG Starting new HTTP connection (1): web.juhe.cn:8080
+2020-12-25 15:47:28,788 connectionpool.py[line:461] DEBUG http://web.juhe.cn:8080 "GET /environment/water/river?key=080deff605d2903e60a0bf3eb4b94884&river=%E6%B7%AE%E6%B2%B3%E6%B5%81%E5%9F%9F HTTP/1.1" 200 None
+2020-12-25 15:47:28,793 test_river.py[line:35] INFO 不成功的用例
+2020-12-25 15:47:28,814 connectionpool.py[line:231] DEBUG Starting new HTTP connection (1): web.juhe.cn:8080
+2020-12-25 15:47:29,160 connectionpool.py[line:461] DEBUG http://web.juhe.cn:8080 "GET /environment/water/state?state=%E6%B2%B3%E5%8D%97%E6%B0%B8%E5%9F%8E%E9%BB%84%E5%8F%A3&key=12345678912345678900000000000000 HTTP/1.1" 200 73
+2020-12-25 15:47:29,170 connectionpool.py[line:231] DEBUG Starting new HTTP connection (1): web.juhe.cn:8080
+2020-12-25 15:47:30,024 connectionpool.py[line:461] DEBUG http://web.juhe.cn:8080 "GET /environment/water/state?key=0 HTTP/1.1" 200 73
+2020-12-25 15:47:30,035 connectionpool.py[line:231] DEBUG Starting new HTTP connection (1): web.juhe.cn:8080
+2020-12-25 15:47:46,014 connectionpool.py[line:461] DEBUG http://web.juhe.cn:8080 "GET /environment/water/river?key=080deff605d2903e60a0bf3eb4b94884&river=%E5%A4%AA%E5%B9%B3%E6%B4%8B HTTP/1.1" 200 78
+2020-12-25 15:47:46,019 test_river.py[line:35] INFO 不成功的用例
+2020-12-25 15:47:46,040 connectionpool.py[line:231] DEBUG Starting new HTTP connection (1): web.juhe.cn:8080
+2020-12-25 15:47:46,477 connectionpool.py[line:461] DEBUG http://web.juhe.cn:8080 "GET /environment/water/state?state=%E6%B2%B3%E5%8D%97%E6%B0%B8%E5%9F%8E%E9%BB%84%E5%8F%A3&key=12345678912345678900000000000000 HTTP/1.1" 200 73
+2020-12-25 15:47:46,486 connectionpool.py[line:231] DEBUG Starting new HTTP connection (1): web.juhe.cn:8080
+2020-12-25 15:47:47,598 connectionpool.py[line:461] DEBUG http://web.juhe.cn:8080 "GET /environment/water/state?key=0 HTTP/1.1" 200 73
+2020-12-25 15:47:47,605 connectionpool.py[line:231] DEBUG Starting new HTTP connection (1): web.juhe.cn:8080
+2020-12-25 15:47:47,737 connectionpool.py[line:461] DEBUG http://web.juhe.cn:8080 "GET /environment/water/river?key=aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa&river=%E9%BB%84%E6%B2%B3%E6%B5%81%E5%9F%9F HTTP/1.1" 200 73
+2020-12-25 15:47:47,741 test_river.py[line:35] INFO 不成功的用例
+2020-12-25 15:47:47,764 connectionpool.py[line:231] DEBUG Starting new HTTP connection (1): web.juhe.cn:8080
+2020-12-25 15:47:48,140 connectionpool.py[line:461] DEBUG http://web.juhe.cn:8080 "GET /environment/water/state?state=%E6%B2%B3%E5%8D%97%E6%B0%B8%E5%9F%8E%E9%BB%84%E5%8F%A3&key=12345678912345678900000000000000 HTTP/1.1" 200 73
+2020-12-25 15:47:48,159 connectionpool.py[line:231] DEBUG Starting new HTTP connection (1): web.juhe.cn:8080
+2020-12-25 15:47:48,263 connectionpool.py[line:461] DEBUG http://web.juhe.cn:8080 "GET /environment/water/state?state=%E6%B2%B3%E5%8D%97%E6%B0%B8%E5%9F%8E%E9%BB%84%E5%8F%A3&key=12345678912345678900000000000000 HTTP/1.1" 200 73
+2020-12-25 15:47:48,305 connectionpool.py[line:231] DEBUG Starting new HTTP connection (1): web.juhe.cn:8080
+2020-12-25 15:47:48,410 connectionpool.py[line:461] DEBUG http://web.juhe.cn:8080 "GET /environment/water/state?state=%E6%B2%B3%E5%8D%97%E6%B0%B8%E5%9F%8E%E9%BB%84%E5%8F%A3&key=12345678912345678900000000000000 HTTP/1.1" 200 73
+2020-12-25 15:47:48,454 connectionpool.py[line:231] DEBUG Starting new HTTP connection (1): web.juhe.cn:8080
+2020-12-25 15:47:48,548 connectionpool.py[line:461] DEBUG http://web.juhe.cn:8080 "GET /environment/water/state?state=%E6%B2%B3%E5%8D%97%E6%B0%B8%E5%9F%8E%E9%BB%84%E5%8F%A3&key=12345678912345678900000000000000 HTTP/1.1" 200 73
+2020-12-25 15:47:48,586 connectionpool.py[line:231] DEBUG Starting new HTTP connection (1): web.juhe.cn:8080
+2020-12-25 15:47:48,698 connectionpool.py[line:461] DEBUG http://web.juhe.cn:8080 "GET /environment/water/state?state=%E6%B2%B3%E5%8D%97%E6%B0%B8%E5%9F%8E%E9%BB%84%E5%8F%A3&key=12345678912345678900000000000000 HTTP/1.1" 200 73
+2020-12-25 15:47:48,731 connectionpool.py[line:231] DEBUG Starting new HTTP connection (1): web.juhe.cn:8080
+2020-12-25 15:47:48,845 connectionpool.py[line:461] DEBUG http://web.juhe.cn:8080 "GET /environment/water/state?state=%E6%B2%B3%E5%8D%97%E6%B0%B8%E5%9F%8E%E9%BB%84%E5%8F%A3&key=12345678912345678900000000000000 HTTP/1.1" 200 73
+2020-12-25 15:47:48,880 connectionpool.py[line:231] DEBUG Starting new HTTP connection (1): web.juhe.cn:8080
+2020-12-25 15:47:48,996 connectionpool.py[line:461] DEBUG http://web.juhe.cn:8080 "GET /environment/water/state?state=%E6%B9%96%E5%8C%97%E5%AE%9C%E6%98%8C%E5%8D%97%E6%B4%A5%E5%85%B3&key=080deff605d2903e60a0bf3eb4b94884 HTTP/1.1" 200 728
+2020-12-25 15:47:49,006 connectionpool.py[line:231] DEBUG Starting new HTTP connection (1): web.juhe.cn:8080
+2020-12-25 15:47:49,114 connectionpool.py[line:461] DEBUG http://web.juhe.cn:8080 "GET /environment/water/state?key=0 HTTP/1.1" 200 73
+2020-12-25 15:47:49,120 connectionpool.py[line:231] DEBUG Starting new HTTP connection (1): web.juhe.cn:8080
+2020-12-25 15:47:49,239 connectionpool.py[line:461] DEBUG http://web.juhe.cn:8080 "GET /environment/water/river?key=080deff605d2903e60a0bf3eb4b94884&river=%E6%B7%AE%E6%B2%B3%E6%B5%81%E5%9F%9F HTTP/1.1" 200 None
+2020-12-25 15:47:49,244 test_river.py[line:43] INFO 无效值得通过，返回得数据：{"resultcode":"200","reason":"SUCCESSED!","result":[{"state":"湖北宜昌南津关","ph":"7.66","phquality":"I","oxygen":"8.99","oxygenquality":"I","nitrogen":"0.06","nitrogenquality":"I","permangan":"1.55","permanganquality":"I","orgacarbon":"--","orgacarbonquality":"I","section":"三峡水库出口","profile":"湖北宜昌南津关水质自动监测站位于长江边的桃花村风景区内。点位坐标东经111度16分14.42秒,北纬30度45分49.72秒。长江流域，长江干流（三峡水库出口），南水北调中线调水源头，属于国控省界断面。由宜昌市环保监测站托管。距离15km。建于2001年1月。","belong":"长江流域","date":"2020-05-12","time":"12:00:00"}],"error_code":0}
+2020-12-25 15:47:49,263 connectionpool.py[line:231] DEBUG Starting new HTTP connection (1): web.juhe.cn:8080
+2020-12-25 15:47:56,633 connectionpool.py[line:461] DEBUG http://web.juhe.cn:8080 "GET /environment/water/state?state=%E6%B9%96%E5%8C%97%E5%AE%9C%E6%98%8C%E5%8D%97%E6%B4%A5%E5%85%B3&key=080deff605d2903e60a0bf3eb4b94884 HTTP/1.1" 200 728
+2020-12-25 15:47:56,643 connectionpool.py[line:231] DEBUG Starting new HTTP connection (1): web.juhe.cn:8080
+2020-12-25 15:47:56,779 connectionpool.py[line:461] DEBUG http://web.juhe.cn:8080 "GET /environment/water/state?key=0 HTTP/1.1" 200 73
+2020-12-25 15:47:56,787 connectionpool.py[line:231] DEBUG Starting new HTTP connection (1): web.juhe.cn:8080
+2020-12-25 15:48:04,399 connectionpool.py[line:461] DEBUG http://web.juhe.cn:8080 "GET /environment/water/river?key=080deff605d2903e60a0bf3eb4b94884&river=%E5%A4%AA%E5%B9%B3%E6%B4%8B HTTP/1.1" 200 78
+2020-12-25 15:48:04,403 test_river.py[line:43] INFO 无效值得通过，返回得数据：{"resultcode":"200","reason":"SUCCESSED!","result":[{"state":"湖北宜昌南津关","ph":"7.66","phquality":"I","oxygen":"8.99","oxygenquality":"I","nitrogen":"0.06","nitrogenquality":"I","permangan":"1.55","permanganquality":"I","orgacarbon":"--","orgacarbonquality":"I","section":"三峡水库出口","profile":"湖北宜昌南津关水质自动监测站位于长江边的桃花村风景区内。点位坐标东经111度16分14.42秒,北纬30度45分49.72秒。长江流域，长江干流（三峡水库出口），南水北调中线调水源头，属于国控省界断面。由宜昌市环保监测站托管。距离15km。建于2001年1月。","belong":"长江流域","date":"2020-05-12","time":"12:00:00"}],"error_code":0}
+2020-12-25 15:48:04,423 connectionpool.py[line:231] DEBUG Starting new HTTP connection (1): web.juhe.cn:8080
+2020-12-25 15:48:05,766 connectionpool.py[line:461] DEBUG http://web.juhe.cn:8080 "GET /environment/water/state?state=%E6%B9%96%E5%8C%97%E5%AE%9C%E6%98%8C%E5%8D%97%E6%B4%A5%E5%85%B3&key=080deff605d2903e60a0bf3eb4b94884 HTTP/1.1" 200 728
+2020-12-25 15:48:05,773 connectionpool.py[line:231] DEBUG Starting new HTTP connection (1): web.juhe.cn:8080
+2020-12-25 15:48:06,129 connectionpool.py[line:461] DEBUG http://web.juhe.cn:8080 "GET /environment/water/state?key=0 HTTP/1.1" 200 73
+2020-12-25 15:48:06,138 connectionpool.py[line:231] DEBUG Starting new HTTP connection (1): web.juhe.cn:8080
+2020-12-25 15:48:06,501 connectionpool.py[line:461] DEBUG http://web.juhe.cn:8080 "GET /environment/water/river?key=aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa&river=%E9%BB%84%E6%B2%B3%E6%B5%81%E5%9F%9F HTTP/1.1" 200 73
+2020-12-25 15:48:06,505 test_river.py[line:43] INFO 无效值得通过，返回得数据：{"resultcode":"200","reason":"SUCCESSED!","result":[{"state":"湖北宜昌南津关","ph":"7.66","phquality":"I","oxygen":"8.99","oxygenquality":"I","nitrogen":"0.06","nitrogenquality":"I","permangan":"1.55","permanganquality":"I","orgacarbon":"--","orgacarbonquality":"I","section":"三峡水库出口","profile":"湖北宜昌南津关水质自动监测站位于长江边的桃花村风景区内。点位坐标东经111度16分14.42秒,北纬30度45分49.72秒。长江流域，长江干流（三峡水库出口），南水北调中线调水源头，属于国控省界断面。由宜昌市环保监测站托管。距离15km。建于2001年1月。","belong":"长江流域","date":"2020-05-12","time":"12:00:00"}],"error_code":0}
+2020-12-25 15:48:06,525 connectionpool.py[line:231] DEBUG Starting new HTTP connection (1): web.juhe.cn:8080
+2020-12-25 15:48:07,657 connectionpool.py[line:461] DEBUG http://web.juhe.cn:8080 "GET /environment/water/state?state=%E6%B9%96%E5%8C%97%E5%AE%9C%E6%98%8C%E5%8D%97%E6%B4%A5%E5%85%B3&key=080deff605d2903e60a0bf3eb4b94884 HTTP/1.1" 200 728
+2020-12-25 15:48:07,692 connectionpool.py[line:231] DEBUG Starting new HTTP connection (1): web.juhe.cn:8080
+2020-12-25 15:48:07,855 connectionpool.py[line:461] DEBUG http://web.juhe.cn:8080 "GET /environment/water/state?state=%E6%B9%96%E5%8C%97%E5%AE%9C%E6%98%8C%E5%8D%97%E6%B4%A5%E5%85%B3&key=080deff605d2903e60a0bf3eb4b94884 HTTP/1.1" 200 728
+2020-12-25 15:48:07,897 connectionpool.py[line:231] DEBUG Starting new HTTP connection (1): web.juhe.cn:8080
+2020-12-25 15:48:09,024 connectionpool.py[line:461] DEBUG http://web.juhe.cn:8080 "GET /environment/water/state?state=%E6%B9%96%E5%8C%97%E5%AE%9C%E6%98%8C%E5%8D%97%E6%B4%A5%E5%85%B3&key=080deff605d2903e60a0bf3eb4b94884 HTTP/1.1" 200 728
+2020-12-25 15:48:09,060 connectionpool.py[line:231] DEBUG Starting new HTTP connection (1): web.juhe.cn:8080
+2020-12-25 15:48:24,174 connectionpool.py[line:461] DEBUG http://web.juhe.cn:8080 "GET /environment/water/state?state=%E6%B9%96%E5%8C%97%E5%AE%9C%E6%98%8C%E5%8D%97%E6%B4%A5%E5%85%B3&key=080deff605d2903e60a0bf3eb4b94884 HTTP/1.1" 200 728
+2020-12-25 15:48:24,217 connectionpool.py[line:231] DEBUG Starting new HTTP connection (1): web.juhe.cn:8080
+2020-12-25 15:48:24,605 connectionpool.py[line:461] DEBUG http://web.juhe.cn:8080 "GET /environment/water/state?state=%E6%B9%96%E5%8C%97%E5%AE%9C%E6%98%8C%E5%8D%97%E6%B4%A5%E5%85%B3&key=080deff605d2903e60a0bf3eb4b94884 HTTP/1.1" 200 728
+2020-12-25 15:48:24,642 connectionpool.py[line:231] DEBUG Starting new HTTP connection (1): web.juhe.cn:8080
+2020-12-25 15:48:25,000 connectionpool.py[line:461] DEBUG http://web.juhe.cn:8080 "GET /environment/water/state?state=%E6%B9%96%E5%8C%97%E5%AE%9C%E6%98%8C%E5%8D%97%E6%B4%A5%E5%85%B3&key=080deff605d2903e60a0bf3eb4b94884 HTTP/1.1" 200 728
+2020-12-25 15:48:25,037 connectionpool.py[line:231] DEBUG Starting new HTTP connection (1): web.juhe.cn:8080
+2020-12-25 15:48:26,427 connectionpool.py[line:461] DEBUG http://web.juhe.cn:8080 "GET /environment/water/state?state=henamhyicheng&key=080deff605d2903e60a0bf3eb4b94884 HTTP/1.1" 200 76
+2020-12-25 15:48:26,431 connectionpool.py[line:231] DEBUG Starting new HTTP connection (1): web.juhe.cn:8080
+2020-12-25 15:48:47,699 connectionpool.py[line:231] DEBUG Starting new HTTP connection (1): web.juhe.cn:8080
+2020-12-25 15:48:47,892 connectionpool.py[line:461] DEBUG http://web.juhe.cn:8080 "GET /environment/water/state?state=henamhyicheng&key=080deff605d2903e60a0bf3eb4b94884 HTTP/1.1" 200 76
+2020-12-25 15:48:47,897 connectionpool.py[line:231] DEBUG Starting new HTTP connection (1): web.juhe.cn:8080
+2020-12-25 15:48:47,999 connectionpool.py[line:461] DEBUG http://web.juhe.cn:8080 "GET /environment/water/state?key=0 HTTP/1.1" 200 73
+2020-12-25 15:48:48,004 connectionpool.py[line:231] DEBUG Starting new HTTP connection (1): web.juhe.cn:8080
+2020-12-25 15:48:48,621 connectionpool.py[line:461] DEBUG http://web.juhe.cn:8080 "GET /environment/water/river?key=080deff605d2903e60a0bf3eb4b94884&river=%E5%A4%AA%E5%B9%B3%E6%B4%8B HTTP/1.1" 200 78
+2020-12-25 15:48:48,626 test_river.py[line:43] INFO 无效值得通过，返回得数据：{"resultcode":"201","reason":"STATE ERROR!","result":[],"error_code":203401}
+2020-12-25 15:48:48,648 connectionpool.py[line:231] DEBUG Starting new HTTP connection (1): web.juhe.cn:8080
+2020-12-25 15:48:48,773 connectionpool.py[line:461] DEBUG http://web.juhe.cn:8080 "GET /environment/water/state?state=henamhyicheng&key=080deff605d2903e60a0bf3eb4b94884 HTTP/1.1" 200 76
+2020-12-25 15:48:48,783 connectionpool.py[line:231] DEBUG Starting new HTTP connection (1): web.juhe.cn:8080
+2020-12-25 15:48:48,899 connectionpool.py[line:461] DEBUG http://web.juhe.cn:8080 "GET /environment/water/state?key=0 HTTP/1.1" 200 73
+2020-12-25 15:48:48,909 connectionpool.py[line:231] DEBUG Starting new HTTP connection (1): web.juhe.cn:8080
+2020-12-25 15:48:49,258 connectionpool.py[line:461] DEBUG http://web.juhe.cn:8080 "GET /environment/water/river?key=aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa&river=%E9%BB%84%E6%B2%B3%E6%B5%81%E5%9F%9F HTTP/1.1" 200 73
+2020-12-25 15:48:49,263 test_river.py[line:43] INFO 无效值得通过，返回得数据：{"resultcode":"201","reason":"STATE ERROR!","result":[],"error_code":203401}
+2020-12-25 15:48:49,283 connectionpool.py[line:231] DEBUG Starting new HTTP connection (1): web.juhe.cn:8080
+2020-12-25 15:48:49,392 connectionpool.py[line:461] DEBUG http://web.juhe.cn:8080 "GET /environment/water/state?state=henamhyicheng&key=080deff605d2903e60a0bf3eb4b94884 HTTP/1.1" 200 76
+2020-12-25 15:48:49,428 connectionpool.py[line:231] DEBUG Starting new HTTP connection (1): web.juhe.cn:8080
+2020-12-25 15:48:50,820 connectionpool.py[line:461] DEBUG http://web.juhe.cn:8080 "GET /environment/water/state?state=henamhyicheng&key=080deff605d2903e60a0bf3eb4b94884 HTTP/1.1" 200 76
+2020-12-25 15:48:50,920 connectionpool.py[line:231] DEBUG Starting new HTTP connection (1): web.juhe.cn:8080
+2020-12-25 15:48:51,435 connectionpool.py[line:461] DEBUG http://web.juhe.cn:8080 "GET /environment/water/state?state=henamhyicheng&key=080deff605d2903e60a0bf3eb4b94884 HTTP/1.1" 200 76
+2020-12-25 15:48:51,530 connectionpool.py[line:231] DEBUG Starting new HTTP connection (1): web.juhe.cn:8080
+2020-12-25 15:48:52,349 connectionpool.py[line:461] DEBUG http://web.juhe.cn:8080 "GET /environment/water/state?state=henamhyicheng&key=080deff605d2903e60a0bf3eb4b94884 HTTP/1.1" 200 76
+2020-12-25 15:48:52,395 connectionpool.py[line:231] DEBUG Starting new HTTP connection (1): web.juhe.cn:8080
+2020-12-25 15:48:53,506 connectionpool.py[line:461] DEBUG http://web.juhe.cn:8080 "GET /environment/water/state?state=henamhyicheng&key=080deff605d2903e60a0bf3eb4b94884 HTTP/1.1" 200 76
+2020-12-25 15:48:53,541 connectionpool.py[line:231] DEBUG Starting new HTTP connection (1): web.juhe.cn:8080
+2020-12-25 15:49:00,693 connectionpool.py[line:461] DEBUG http://web.juhe.cn:8080 "GET /environment/water/state?state=henamhyicheng&key=080deff605d2903e60a0bf3eb4b94884 HTTP/1.1" 200 76
+2020-12-25 15:49:00,730 connectionpool.py[line:231] DEBUG Starting new HTTP connection (1): web.juhe.cn:8080
+2020-12-25 15:49:00,851 connectionpool.py[line:461] DEBUG http://web.juhe.cn:8080 "GET /environment/water/state?state=%E6%B2%B3%E5%8D%97%E6%B0%B8%E5%9F%8E%E9%BB%84%E5%8F%A3&key=12345678912345678900000000000000 HTTP/1.1" 200 73
+2020-12-25 15:49:00,862 connectionpool.py[line:231] DEBUG Starting new HTTP connection (1): web.juhe.cn:8080
+2020-12-25 15:49:01,196 connectionpool.py[line:461] DEBUG http://web.juhe.cn:8080 "GET /environment/water/state?key=0 HTTP/1.1" 200 73
+2020-12-25 15:49:01,204 connectionpool.py[line:231] DEBUG Starting new HTTP connection (1): web.juhe.cn:8080
+2020-12-25 15:49:01,334 connectionpool.py[line:461] DEBUG http://web.juhe.cn:8080 "GET /environment/water/river?key=080deff605d2903e60a0bf3eb4b94884&river=%E6%B7%AE%E6%B2%B3%E6%B5%81%E5%9F%9F HTTP/1.1" 200 None
+2020-12-25 15:49:01,339 test_river.py[line:43] INFO 无效值得通过，返回得数据：{"resultcode":"101","reason":"KEY ERROR!","result":[],"error_code":10001}
+2020-12-25 15:49:01,360 connectionpool.py[line:231] DEBUG Starting new HTTP connection (1): web.juhe.cn:8080
+2020-12-25 15:49:01,485 connectionpool.py[line:461] DEBUG http://web.juhe.cn:8080 "GET /environment/water/state?state=%E6%B2%B3%E5%8D%97%E6%B0%B8%E5%9F%8E%E9%BB%84%E5%8F%A3&key=12345678912345678900000000000000 HTTP/1.1" 200 73
+2020-12-25 15:49:01,495 connectionpool.py[line:231] DEBUG Starting new HTTP connection (1): web.juhe.cn:8080
+2020-12-25 15:49:01,822 connectionpool.py[line:461] DEBUG http://web.juhe.cn:8080 "GET /environment/water/state?key=0 HTTP/1.1" 200 73
+2020-12-25 15:49:01,831 connectionpool.py[line:231] DEBUG Starting new HTTP connection (1): web.juhe.cn:8080
+2020-12-25 15:49:02,969 connectionpool.py[line:461] DEBUG http://web.juhe.cn:8080 "GET /environment/water/river?key=080deff605d2903e60a0bf3eb4b94884&river=%E5%A4%AA%E5%B9%B3%E6%B4%8B HTTP/1.1" 200 78
+2020-12-25 15:49:02,974 test_river.py[line:43] INFO 无效值得通过，返回得数据：{"resultcode":"101","reason":"KEY ERROR!","result":[],"error_code":10001}
+2020-12-25 15:49:02,998 connectionpool.py[line:231] DEBUG Starting new HTTP connection (1): web.juhe.cn:8080
+2020-12-25 15:49:08,479 connectionpool.py[line:231] DEBUG Starting new HTTP connection (1): web.juhe.cn:8080
+2020-12-25 15:49:08,656 connectionpool.py[line:461] DEBUG http://web.juhe.cn:8080 "GET /environment/water/state?state=%E6%B2%B3%E5%8D%97%E6%B0%B8%E5%9F%8E%E9%BB%84%E5%8F%A3&key=12345678912345678900000000000000 HTTP/1.1" 200 73
+2020-12-25 15:49:08,690 connectionpool.py[line:231] DEBUG Starting new HTTP connection (1): web.juhe.cn:8080
+2020-12-25 15:49:08,804 connectionpool.py[line:461] DEBUG http://web.juhe.cn:8080 "GET /environment/water/state?state=%E6%B2%B3%E5%8D%97%E6%B0%B8%E5%9F%8E%E9%BB%84%E5%8F%A3&key=12345678912345678900000000000000 HTTP/1.1" 200 73
+2020-12-25 15:49:08,829 connectionpool.py[line:231] DEBUG Starting new HTTP connection (1): web.juhe.cn:8080
+2020-12-25 15:49:08,929 connectionpool.py[line:461] DEBUG http://web.juhe.cn:8080 "GET /environment/water/state?state=%E6%B2%B3%E5%8D%97%E6%B0%B8%E5%9F%8E%E9%BB%84%E5%8F%A3&key=12345678912345678900000000000000 HTTP/1.1" 200 73
+2020-12-25 15:49:08,977 connectionpool.py[line:231] DEBUG Starting new HTTP connection (1): web.juhe.cn:8080
+2020-12-25 15:49:10,327 connectionpool.py[line:461] DEBUG http://web.juhe.cn:8080 "GET /environment/water/state?state=%E6%B2%B3%E5%8D%97%E6%B0%B8%E5%9F%8E%E9%BB%84%E5%8F%A3&key=12345678912345678900000000000000 HTTP/1.1" 200 73
+2020-12-25 15:49:10,349 connectionpool.py[line:231] DEBUG Starting new HTTP connection (1): web.juhe.cn:8080
+2020-12-25 15:49:10,678 connectionpool.py[line:461] DEBUG http://web.juhe.cn:8080 "GET /environment/water/state?state=%E6%B2%B3%E5%8D%97%E6%B0%B8%E5%9F%8E%E9%BB%84%E5%8F%A3&key=12345678912345678900000000000000 HTTP/1.1" 200 73
+2020-12-25 15:49:10,722 connectionpool.py[line:231] DEBUG Starting new HTTP connection (1): web.juhe.cn:8080
+2020-12-25 15:49:32,020 connectionpool.py[line:231] DEBUG Starting new HTTP connection (1): web.juhe.cn:8080
+2020-12-25 15:49:43,307 connectionpool.py[line:231] DEBUG Starting new HTTP connection (1): web.juhe.cn:8080
+2020-12-25 15:49:49,576 connectionpool.py[line:231] DEBUG Starting new HTTP connection (1): web.juhe.cn:8080
+2020-12-25 15:49:55,506 connectionpool.py[line:231] DEBUG Starting new HTTP connection (1): web.juhe.cn:8080
+2020-12-25 15:50:01,494 connectionpool.py[line:231] DEBUG Starting new HTTP connection (1): web.juhe.cn:8080
+2020-12-25 15:50:07,468 connectionpool.py[line:231] DEBUG Starting new HTTP connection (1): web.juhe.cn:8080
+2020-12-25 15:50:07,628 connectionpool.py[line:461] DEBUG http://web.juhe.cn:8080 "GET /environment/water/state?state=%E6%B9%96%E5%8C%97%E5%AE%9C%E6%98%8C%E5%8D%97%E6%B4%A5%E5%85%B3&key=080deff605d2903e60a0bf3eb4b94884 HTTP/1.1" 200 728
+2020-12-25 15:50:07,674 connectionpool.py[line:231] DEBUG Starting new HTTP connection (1): web.juhe.cn:8080
+2020-12-25 15:50:09,024 connectionpool.py[line:461] DEBUG http://web.juhe.cn:8080 "GET /environment/water/state?state=%E6%B9%96%E5%8C%97%E5%AE%9C%E6%98%8C%E5%8D%97%E6%B4%A5%E5%85%B3&key=080deff605d2903e60a0bf3eb4b94884 HTTP/1.1" 200 728
+2020-12-25 15:50:09,066 connectionpool.py[line:231] DEBUG Starting new HTTP connection (1): web.juhe.cn:8080
+2020-12-25 15:50:30,305 connectionpool.py[line:231] DEBUG Starting new HTTP connection (1): web.juhe.cn:8080
+2020-12-25 15:50:37,506 connectionpool.py[line:461] DEBUG http://web.juhe.cn:8080 "GET /environment/water/state?state=%E6%B9%96%E5%8C%97%E5%AE%9C%E6%98%8C%E5%8D%97%E6%B4%A5%E5%85%B3&key=080deff605d2903e60a0bf3eb4b94884 HTTP/1.1" 200 728
+2020-12-25 15:50:37,542 connectionpool.py[line:231] DEBUG Starting new HTTP connection (1): web.juhe.cn:8080
+2020-12-25 15:50:38,145 connectionpool.py[line:461] DEBUG http://web.juhe.cn:8080 "GET /environment/water/state?state=henamhyicheng&key=080deff605d2903e60a0bf3eb4b94884 HTTP/1.1" 200 76
+2020-12-25 15:50:38,154 connectionpool.py[line:231] DEBUG Starting new HTTP connection (1): web.juhe.cn:8080
+2020-12-25 15:50:41,270 connectionpool.py[line:461] DEBUG http://web.juhe.cn:8080 "GET /environment/water/state?key=0 HTTP/1.1" 200 73
+2020-12-25 15:50:41,278 connectionpool.py[line:231] DEBUG Starting new HTTP connection (1): web.juhe.cn:8080
+2020-12-25 15:50:42,430 connectionpool.py[line:461] DEBUG http://web.juhe.cn:8080 "GET /environment/water/river?key=080deff605d2903e60a0bf3eb4b94884&river=%E6%B7%AE%E6%B2%B3%E6%B5%81%E5%9F%9F HTTP/1.1" 200 None
+2020-12-25 15:50:42,435 test_river.py[line:50] INFO 无效值得通过，返回得数据：{"resultcode":"101","reason":"KEY ERROR!","result":[],"error_code":10001}
+2020-12-25 15:50:42,454 connectionpool.py[line:231] DEBUG Starting new HTTP connection (1): web.juhe.cn:8080
+2020-12-25 15:50:43,085 connectionpool.py[line:461] DEBUG http://web.juhe.cn:8080 "GET /environment/water/state?state=henamhyicheng&key=080deff605d2903e60a0bf3eb4b94884 HTTP/1.1" 200 76
+2020-12-25 15:50:43,092 connectionpool.py[line:231] DEBUG Starting new HTTP connection (1): web.juhe.cn:8080
+2020-12-25 15:50:43,190 connectionpool.py[line:461] DEBUG http://web.juhe.cn:8080 "GET /environment/water/state?key=0 HTTP/1.1" 200 73
+2020-12-25 15:50:43,200 connectionpool.py[line:231] DEBUG Starting new HTTP connection (1): web.juhe.cn:8080
+2020-12-25 15:50:43,328 connectionpool.py[line:461] DEBUG http://web.juhe.cn:8080 "GET /environment/water/river?key=080deff605d2903e60a0bf3eb4b94884&river=%E5%A4%AA%E5%B9%B3%E6%B4%8B HTTP/1.1" 200 78
+2020-12-25 15:50:43,332 test_river.py[line:50] INFO 无效值得通过，返回得数据：{"resultcode":"101","reason":"KEY ERROR!","result":[],"error_code":10001}
+2020-12-25 15:50:43,354 connectionpool.py[line:231] DEBUG Starting new HTTP connection (1): web.juhe.cn:8080
+2020-12-25 15:50:43,460 connectionpool.py[line:461] DEBUG http://web.juhe.cn:8080 "GET /environment/water/state?state=henamhyicheng&key=080deff605d2903e60a0bf3eb4b94884 HTTP/1.1" 200 76
+2020-12-25 15:50:43,467 connectionpool.py[line:231] DEBUG Starting new HTTP connection (1): web.juhe.cn:8080
+2020-12-25 15:50:43,565 connectionpool.py[line:461] DEBUG http://web.juhe.cn:8080 "GET /environment/water/state?key=0 HTTP/1.1" 200 73
+2020-12-25 15:50:43,575 connectionpool.py[line:231] DEBUG Starting new HTTP connection (1): web.juhe.cn:8080
+2020-12-25 15:50:43,698 connectionpool.py[line:461] DEBUG http://web.juhe.cn:8080 "GET /environment/water/river?key=aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa&river=%E9%BB%84%E6%B2%B3%E6%B5%81%E5%9F%9F HTTP/1.1" 200 73
+2020-12-25 15:50:43,702 test_river.py[line:50] INFO 无效值得通过，返回得数据：{"resultcode":"101","reason":"KEY ERROR!","result":[],"error_code":10001}
+2020-12-25 15:50:43,722 connectionpool.py[line:231] DEBUG Starting new HTTP connection (1): web.juhe.cn:8080
+2020-12-25 15:50:46,863 connectionpool.py[line:461] DEBUG http://web.juhe.cn:8080 "GET /environment/water/state?state=henamhyicheng&key=080deff605d2903e60a0bf3eb4b94884 HTTP/1.1" 200 76
+2020-12-25 15:50:46,900 connectionpool.py[line:231] DEBUG Starting new HTTP connection (1): web.juhe.cn:8080
+2020-12-25 15:50:48,259 connectionpool.py[line:461] DEBUG http://web.juhe.cn:8080 "GET /environment/water/state?state=henamhyicheng&key=080deff605d2903e60a0bf3eb4b94884 HTTP/1.1" 200 76
+2020-12-25 15:50:48,304 connectionpool.py[line:231] DEBUG Starting new HTTP connection (1): web.juhe.cn:8080
+2020-12-25 15:50:52,229 connectionpool.py[line:461] DEBUG http://web.juhe.cn:8080 "GET /environment/water/state?state=henamhyicheng&key=080deff605d2903e60a0bf3eb4b94884 HTTP/1.1" 200 76
+2020-12-25 15:50:52,268 connectionpool.py[line:231] DEBUG Starting new HTTP connection (1): web.juhe.cn:8080
+2020-12-25 15:51:13,555 connectionpool.py[line:231] DEBUG Starting new HTTP connection (1): web.juhe.cn:8080
+2020-12-25 15:51:19,473 connectionpool.py[line:231] DEBUG Starting new HTTP connection (1): web.juhe.cn:8080
+2020-12-25 15:51:22,615 connectionpool.py[line:461] DEBUG http://web.juhe.cn:8080 "GET /environment/water/state?state=henamhyicheng&key=080deff605d2903e60a0bf3eb4b94884 HTTP/1.1" 200 76
+2020-12-25 15:51:22,657 connectionpool.py[line:231] DEBUG Starting new HTTP connection (1): web.juhe.cn:8080
+2020-12-25 15:51:43,912 connectionpool.py[line:231] DEBUG Starting new HTTP connection (1): web.juhe.cn:8080
+2020-12-25 15:51:49,468 connectionpool.py[line:231] DEBUG Starting new HTTP connection (1): web.juhe.cn:8080
+2020-12-25 15:51:55,470 connectionpool.py[line:231] DEBUG Starting new HTTP connection (1): web.juhe.cn:8080
+2020-12-25 15:52:01,596 connectionpool.py[line:231] DEBUG Starting new HTTP connection (1): web.juhe.cn:8080
+2020-12-25 15:52:07,450 connectionpool.py[line:231] DEBUG Starting new HTTP connection (1): web.juhe.cn:8080
+2020-12-25 15:52:08,060 connectionpool.py[line:461] DEBUG http://web.juhe.cn:8080 "GET /environment/water/state?state=%E6%B2%B3%E5%8D%97%E6%B0%B8%E5%9F%8E%E9%BB%84%E5%8F%A3&key=12345678912345678900000000000000 HTTP/1.1" 200 73
+2020-12-25 15:52:08,104 connectionpool.py[line:231] DEBUG Starting new HTTP connection (1): web.juhe.cn:8080
+2020-12-25 15:52:08,712 connectionpool.py[line:461] DEBUG http://web.juhe.cn:8080 "GET /environment/water/state?state=%E6%B2%B3%E5%8D%97%E6%B0%B8%E5%9F%8E%E9%BB%84%E5%8F%A3&key=12345678912345678900000000000000 HTTP/1.1" 200 73
+2020-12-25 15:52:08,746 connectionpool.py[line:231] DEBUG Starting new HTTP connection (1): web.juhe.cn:8080
+2020-12-25 15:52:30,478 connectionpool.py[line:231] DEBUG Starting new HTTP connection (1): web.juhe.cn:8080
+2020-12-25 15:52:38,654 connectionpool.py[line:461] DEBUG http://web.juhe.cn:8080 "GET /environment/water/state?state=%E6%B2%B3%E5%8D%97%E6%B0%B8%E5%9F%8E%E9%BB%84%E5%8F%A3&key=12345678912345678900000000000000 HTTP/1.1" 200 73
+2020-12-25 15:57:05,642 connectionpool.py[line:231] DEBUG Starting new HTTP connection (1): web.juhe.cn:8080
+2020-12-25 15:57:05,880 connectionpool.py[line:461] DEBUG http://web.juhe.cn:8080 "GET /environment/water/river?key=080deff605d2903e60a0bf3eb4b94884&river=%E6%B7%AE%E6%B2%B3%E6%B5%81%E5%9F%9F HTTP/1.1" 200 None
+2020-12-25 15:57:05,891 test_river.py[line:35] INFO 不成功的用例
+2020-12-25 15:57:05,914 connectionpool.py[line:231] DEBUG Starting new HTTP connection (1): web.juhe.cn:8080
+2020-12-25 15:57:06,030 connectionpool.py[line:461] DEBUG http://web.juhe.cn:8080 "GET /environment/water/river?key=080deff605d2903e60a0bf3eb4b94884&river=%E5%A4%AA%E5%B9%B3%E6%B4%8B HTTP/1.1" 200 78
+2020-12-25 15:57:06,034 test_river.py[line:35] INFO 不成功的用例
+2020-12-25 15:57:06,044 connectionpool.py[line:231] DEBUG Starting new HTTP connection (1): web.juhe.cn:8080
+2020-12-25 15:57:06,151 connectionpool.py[line:461] DEBUG http://web.juhe.cn:8080 "GET /environment/water/river?key=aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa&river=%E9%BB%84%E6%B2%B3%E6%B5%81%E5%9F%9F HTTP/1.1" 200 73
+2020-12-25 15:57:06,152 test_river.py[line:35] INFO 不成功的用例

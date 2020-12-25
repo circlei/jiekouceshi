@@ -1,0 +1,27 @@
+liuyu:
+  -
+    key:
+      - 080deff605d2903e60a0bf3eb4b94884
+      - 080deff605d2903e60a0bf3eb4b94884
+      - aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+    river_name:
+      - 淮河流域
+      - 太平洋
+      - 黄河流域
+
+zhandian:
+  -
+    state:
+      - 湖北宜昌南津关
+      - henamhyicheng
+      - 河南永城黄口
+    key:
+      - 080deff605d2903e60a0bf3eb4b94884
+      - 080deff605d2903e60a0bf3eb4b94884
+      - 12345678912345678900000000000000
+jiankongzhan:
+  -
+    key:
+      - 080deff605d2903e60a0bf3eb4b94884
+      - 392042934928320011111111111010101111
+      -
