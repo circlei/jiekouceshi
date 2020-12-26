@@ -18,6 +18,6 @@ def test_1(water):
 
 if __name__ == '__main__':
 
-    pytest.main(['-s','--alluredir=DIR','E:\ff\temp'])
-    os.system('allure generate E:\ff\temp -o E:\ff\report --clean')
+    pytest.main(['-s','--alluredir=DIR',r'E:\ff\temp'])
+    os.system(r'allure generate E:\ff\temp -o E:\ff\report --clean')
 
