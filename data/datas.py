@@ -16,4 +16,4 @@ def river_case(file):
 
 if __name__ == '__main__':
     #river_case("../data/shujv.yaml")
-    print(river_case("../data/shujv.yaml"))
+    print(river_case(r"E:\ff\data\shujv.yaml"))
